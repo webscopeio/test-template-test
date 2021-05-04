@@ -1,0 +1,27 @@
+questions:
+  # This is an example of a single choice question
+  - title: Who was the captain in the first pilot episode of the original Star Trek series?
+    type: SINGLE_CHOICE
+    hint: His name rhymes with "bike"
+    options:
+      - Captain America
+      - Christopher Pike
+      - Christopher Columbus
+    answer: 1
+
+  # This is an example of a multi choice question
+  - title: Which of these characters from Game of Thrones series died?
+    type: MULTI_CHOICE
+    hint: There was a lot of dying...
+    options:
+      - Jaime Lannister
+      - Robb Stark
+      - Hodor
+    answers:
+      - 0
+      - 1
+      - 2
+
+  # This is an example of a full-text question (answers for full-text-questions are optional)
+  - title: If you store a pokemon in a PC does it become a digimon?
+    type: FULL_TEXT
