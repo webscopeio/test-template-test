@@ -16,9 +16,9 @@ questions:
   hint: There was a lot of dying...
   options:
   - value: Jaime Lannister
-  	correct: true
+    correct: true
   - value: Robb Stark
-  	correct: true
+    correct: true
   - value: Hodor
 
 
