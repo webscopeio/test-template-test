@@ -21,7 +21,27 @@ questions:
     correct: true
   - value: Hodor
 
-
 # This is an example of a full-text question (answers for full-text-questions are optional)
 - title: If you store a pokemon in a PC does it become a digimon?
   type: full_text
+  
+# This is an example of a question with body
+- title: What does the following code print?
+  type: SINGLE_CHOICE
+  body: |
+    def foo():
+      print "foo"
+
+      foo()
+
+    foo()
+
+    ```python3
+    Hello world
+    ```
+
+  options:
+    - foo
+    - bar
+    - nothing
+  answer: 1
