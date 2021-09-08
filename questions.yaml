@@ -26,22 +26,16 @@ questions:
   type: full_text
   
 # This is an example of a question with body
-- title: What does the following code print?
-  type: SINGLE_CHOICE
+- title: If you store a pokemon in a PC does it become a digimon?
+  type: full_text
   body: |
-    def foo():
-      print "foo"
-
-      foo()
+  def foo():
+    print "foo"
 
     foo()
 
-    ```python3
-    Hello world
-    ```
+  foo()
 
-  options:
-    - foo
-    - bar
-    - nothing
-  answer: 1
+  ```python3
+  Hello world
+  ```
