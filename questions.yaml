@@ -29,13 +29,11 @@ questions:
 - title: If you store a pokemon in a PC does it become a digimon?
   type: full_text
   body: |
-    def foo():
-      print "foo"
+    ```python3
+      def foo():
+        print "foo"
+
+        foo()
 
       foo()
-
-    foo()
-
-    ```python3
-    Hello world
     ```
