@@ -29,6 +29,8 @@ questions:
 - title: If you store a pokemon in a PC does it become a digimon?
   type: full_text
   body: |
+    Here is some JavaScript code:
+
     ~~~js
     console.log('It works!')
     ~~~
