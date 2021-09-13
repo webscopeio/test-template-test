@@ -27,7 +27,7 @@ questions:
   type: multi_choice
   hint: There was a lot of dying...
   options:
-  - value: Jaime Lannister
+  - value: Sersei Lannister
     correct: true
   - value: Robb Stark
     correct: true
