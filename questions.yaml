@@ -13,13 +13,13 @@ questions:
     Here is some JavaScript code:
 
     ~~~js
-    console.log('It works!')
+    console.log('It works!');
     ~~~
     
     And here is another:
     
     ~~~js
-    console.log('It works again!')
+    console.log('It works again!');
     ~~~
 
   # This is an example of a multi choice question
