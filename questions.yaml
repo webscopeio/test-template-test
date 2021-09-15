@@ -1,7 +1,6 @@
 questions:
   # This is an example of a single choice question
-- title: Who was the captain in the first pilot episode of the original Star Trek
-    series?
+- title: Who was the captain in the first pilot episode of the original Star Trek?
   type: single_choice
   hint: His name rhymes with "bike"
   options:
