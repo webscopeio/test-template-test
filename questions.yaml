@@ -7,6 +7,7 @@ questions:
   - value: Captain America
     correct: true
   - value: Christopher Pike
+  - value: This is a new answer
   - value: Christopher Columbus
   body: |
     Here is some JavaScript code:
