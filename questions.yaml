@@ -5,8 +5,8 @@ questions:
   hint: His name rhymes with "bike"
   options:
   - value: Captain America
-    correct: true
   - value: Christopher Pike
+    correct: true
   - value: This is a new answer
   - value: Christopher Columbus
   body: |
