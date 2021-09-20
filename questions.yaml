@@ -6,7 +6,6 @@ questions:
   options:
   - value: Captain America
   - value: Christopher Pike
-    correct: true
   - value: This is a new answer
   - value: Christopher Columbus
   body: |
