@@ -13,7 +13,7 @@ questions:
     Here is some JavaScript code:
 
     ~~~js
-    console.log('It works!');
+    console.log('It works!')
     ~~~
     
     And here is another:
